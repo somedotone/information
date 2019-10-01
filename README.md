@@ -1,4 +1,4 @@
-# Informations
+# Information
 A repository with useful informations about some.one
 
 ## Ardor nodes
